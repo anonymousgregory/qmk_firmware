@@ -20,7 +20,6 @@
     {"name": "Bluetooth Host 3", "title": "Bluetooth Host 3", "shortName": "BTH3"},
     {"name": "2.4G", "title": "2.4G", "shortName": "2.4G"},
     {"name": "Battery Level", "title": "Show battery level", "shortName": "Batt"}
-     {"name": "Globe Key", "title": "Apple Globe/FN Key", "shortName": "APFn"}
   ],
   "matrix": {"rows": 6, "cols" : 16},
   "layouts": {

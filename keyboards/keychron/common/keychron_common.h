@@ -90,6 +90,7 @@ enum {
 #else
     __BL_SPD_NEXT = __PROF3_NEXT,
 #endif
+    KC_APFN, // Added for Apple's Globe Key
     NEW_SAFE_RANGE = __BL_SPD_NEXT
 };
 
